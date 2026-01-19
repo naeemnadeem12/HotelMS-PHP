@@ -1,0 +1,5 @@
+/DATABASE FILE
+/db.php
+/vendor
+/node_modules
+*.log
